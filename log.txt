@@ -1,0 +1,285 @@
+# LIRI LOG #
+
+--------------------
+concert-this
+----------
+Venue: Ultra
+Location: Johannesburg, South Africa
+Date: 03/02/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Family
+Location: Brisbane, Australia
+Date: 03/15/2019
+
+
+--------------------
+concert-this
+----------
+Venue: RC Cola Plant
+Location: Miami, United States
+Date: 03/28/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Transmission
+Location: Sydney, Australia
+Date: 03/16/2019
+
+
+--------------------
+concert-this
+----------
+Venue: The Armory
+Location: Minneapolis, United States
+Date: 03/30/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Printworks London
+Location: London, United Kingdom
+Date: 04/13/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Printworks London
+Location: London, United Kingdom
+Date: 04/12/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Kaos Dayclub
+Location: Las Vegas, United States
+Date: 05/16/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Beyond Wonderland
+Location: Monterrey, Mexico
+Date: 04/06/2019
+
+
+--------------------
+concert-this
+----------
+Venue: A Summer Story
+Location: Arganda Del Rey, Spain
+Date: 06/22/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Ciudad del Rock
+Location: Monteagudo Del Castillo, Spain
+Date: 06/21/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Tomorrowland
+Location: Boom, Belgium
+Date: 07/19/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Electronic Family
+Location: Den Bosch, Netherlands
+Date: 07/20/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Group Therapy Weekender
+Location: George, United States
+Date: 07/27/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Parookaville
+Location: Weeze, Germany
+Date: 07/21/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Creamfields Festival
+Location: Warrington, United Kingdom
+Date: 08/24/2019
+
+
+--------------------
+concert-this
+----------
+Venue: îleSoniq
+Location: Montreal, Canada
+Date: 08/10/2019
+
+
+--------------------
+concert-this
+----------
+Venue: Group Therapy 350
+Location: Praha 9, Czech Republic
+Date: 10/11/2019
+
+
+--------------------
+movie-this
+----------
+Movie: Titanic
+Release: 1997
+IMDB rating: 7.8/10
+Rotten Tomatoes rating: 89%
+Country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+--------------------
+concert-this
+----------
+Venue: Palais 12
+Location: Bruxelles, Belgium
+Date: 03/10/2019
+
+--------------------
+concert-this
+----------
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03/20/2019
+
+--------------------
+concert-this
+----------
+Venue: Arena Birmingham
+Location: Birmingham, United Kingdom
+Date: 03/21/2019
+
+--------------------
+concert-this
+----------
+Venue: SSE Hydro
+Location: Glasgow, United Kingdom
+Date: 03/22/2019
+
+--------------------
+concert-this
+----------
+Venue: The SSE Arena, Wembley
+Location: London, United Kingdom
+Date: 03/23/2019
+
+--------------------
+concert-this
+----------
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 03/25/2019
+
+--------------------
+concert-this
+----------
+Venue: Palau Sant Jordi
+Location: Barcelona, Spain
+Date: 04/05/2019
+
+--------------------
+concert-this
+----------
+Venue: LA SEINE MUSICALE - GRANDE SEINE
+Location: Boulogne Billancourt, France
+Date: 03/27/2019
+
+--------------------
+concert-this
+----------
+Venue: WiZink Center
+Location: Madrid, Spain
+Date: 04/07/2019
+
+--------------------
+concert-this
+----------
+Venue: Palais 12
+Location: Bruxelles, Belgium
+Date: 03/31/2019
+
+--------------------
+concert-this
+----------
+Venue: O2 Arena
+Location: Prague, Czech Republic
+Date: 04/14/2019
+
+--------------------
+concert-this
+----------
+Venue: Scandinavium
+Location: Goteborg, Sweden
+Date: 11/15/2019
+
+--------------------
+concert-this
+----------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 11/11/2019
+
+--------------------
+concert-this
+----------
+Venue: Oslo Spektrum Arena
+Location: Oslo, Norway
+Date: 11/16/2019
+
+--------------------
+concert-this
+----------
+Venue: The O2 Arena
+Location: London, United Kingdom
+Date: 11/26/2019
+
+--------------------
+concert-this
+----------
+Venue: Ericsson Globe
+Location: Stockholm, Sweden
+Date: 11/17/2019
+
+--------------------
+spotify-this-song
+----------
+Artist: Klaus Badelt
+Song name: He's a Pirate
+Album: Pirates of the Caribbean: The Curse of the Black Pearl (Original Motion Picture Soundtrack)
+Preview: null
+
+--------------------
+spotify-this-song
+----------
+Artist: Karaoke Box
+Song name: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+Album: Karaoke Box: Reggae Greatest Hits
+Preview: https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=779b6ad288ee4edb839f1db81bc4511c
