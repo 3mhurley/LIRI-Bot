@@ -58,8 +58,8 @@ This bot takes user input in the command line and executes a set group of comman
 
 ### Node Packages
 
-* axios
-* dotenv
-* fs
-* moment
-* node-spotify-api
+* [axios](https://www.npmjs.com/package/axios/)
+* [dotenv](https://www.npmjs.com/package/dotenv/)
+* [fs](https://nodejs.org/api/fs.html/)
+* [moment](https://www.npmjs.com/package/moment/)
+* [node-spotify-api](https://www.npmjs.com/package/node-spotify-api/)
